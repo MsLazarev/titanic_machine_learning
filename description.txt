@@ -1,0 +1,11 @@
+PassengerId - id
+Pclass - class of cabin
+Name - Name of Passenger
+Sex - male/female
+Age - age of Passenger
+SibSp - brothers, sisters, spouses of Passenger who on Titanic too
+Parch - kids, parents of passenger who on Titanic too
+ticket - number of ticket
+fare - price of ticket
+cabin - num of cabin
+Embarked - the port where the passenger boarded on Titanic(Q - Queenstown, S - Sauthempton, C - Cherbourg)
