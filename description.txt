@@ -9,3 +9,13 @@ ticket - number of ticket
 fare - price of ticket
 cabin - num of cabin
 Embarked - the port where the passenger boarded on Titanic(Q - Queenstown, S - Sauthempton, C - Cherbourg)
+
+
+Hypotheses:
+1. Women, children and the elderly have a better chance of survival than men.
+2. Pclass on the top of Titanic has a better chance of survival (because of boats).
+3. Passengers with kids and parents have a better chance of survival.
+4. Passengers with expensive tickets have a better chance of survival.
+5. sth with Embarked(wouldn't hurt).
+
+Unnecessary columns: PassengerId, Name, Ticket, Embarked
